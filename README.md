@@ -6,4 +6,4 @@
 
 ### 这个头文件可以让开发病毒/植入后门更简单
 
-### This header file can make development of viruses/implantation backdoors simpler.
+### This header file can make the development of viruses/implantation backdoors simpler.
