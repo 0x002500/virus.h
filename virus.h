@@ -6,6 +6,5 @@
 
 void mouse_bad();
 void cpu_high();
-void men_high();
 
 #endif
