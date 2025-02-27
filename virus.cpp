@@ -1,5 +1,5 @@
 #include <iostream>
-#include "virus.h"
+#include "virus.hpp"
 #include <windows.h>
 #include <cstdlib>
 #include<time.h>
